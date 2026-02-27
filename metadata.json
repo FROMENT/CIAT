@@ -1,0 +1,5 @@
+{
+  "name": "CIAT Asset Evaluator",
+  "description": "Évaluation du niveau CIAT (Confidentialité, Intégrité, Accessibilité, Traçabilité) d'un asset informatique basé sur les impacts métiers.",
+  "requestFramePermissions": []
+}
